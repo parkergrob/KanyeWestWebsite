@@ -40,9 +40,6 @@ body{
   opacity: 20%;
 }
 
-.text-footer{
-  border: 2px solid black
-}
 .text{
   position: absolute;
   bottom: 20px;
